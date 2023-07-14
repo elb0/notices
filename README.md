@@ -1,1 +1,1 @@
-# notices
+# Live notices for teaching
